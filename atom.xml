@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://samyinyue.github.io</id>
-    <title>殷悦 Sam 的个人博客</title>
-    <updated>2020-07-19T15:37:05.847Z</updated>
+    <title>殷悦 Sam</title>
+    <updated>2020-07-19T15:57:39.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://samyinyue.github.io"/>
     <link rel="self" href="https://samyinyue.github.io/atom.xml"/>
     <subtitle>Think different, don&apos;t be evil. </subtitle>
     <logo>https://samyinyue.github.io/images/avatar.png</logo>
     <icon>https://samyinyue.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 殷悦 Sam 的个人博客</rights>
+    <rights>All rights reserved 2020, 殷悦 Sam</rights>
     <entry>
         <title type="html"><![CDATA[生日快乐！]]></title>
         <id>https://samyinyue.github.io/post/sheng-ri-kuai-le/</id>
