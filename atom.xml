@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://samyinyue.github.io</id>
     <title>殷悦 Sam</title>
-    <updated>2020-07-27T17:37:15.561Z</updated>
+    <updated>2020-07-30T17:58:25.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://samyinyue.github.io"/>
     <link rel="self" href="https://samyinyue.github.io/atom.xml"/>
@@ -10,6 +10,50 @@
     <logo>https://samyinyue.github.io/images/avatar.png</logo>
     <icon>https://samyinyue.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 殷悦 Sam</rights>
+    <entry>
+        <title type="html"><![CDATA[学习｜The Science of Well-Being - Week 1 Rewirement]]></title>
+        <id>https://samyinyue.github.io/post/the-science-of-well-being-week-1-rewirement/</id>
+        <link href="https://samyinyue.github.io/post/the-science-of-well-being-week-1-rewirement/">
+        </link>
+        <updated>2020-07-30T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>书接上回，本周应该想着在生活中发挥自己的四个<strong>性格特征（Signature Strength）</strong>，但实际操作起来，可没我想象中那么容易。说来惭愧，现在让我回忆四个特征分别是什么，我都有些说不上来...</p>
+<ul>
+<li>
+<h3 id="judgment-判断">Judgment 判断</h3>
+<p>我想到一件，在开始学习这门课程之前遇到的事。**如果换做是我，可能会有更好的解决方式。**当时的情况是这样的：</p>
+<blockquote>
+<p>我去饺子店吃饭，老板在给邻桌上完菜后，杵在人家夫妻桌前，看着他们吃了一口后问道：「<strong>你觉得这味道怎么样？</strong>」</p>
+<p>这对夫妻一听有点懵——没头没脑的一个问题，都不知该怎么回答合适。没等夫妻回答，老板又补了一句：「<strong>这馅尝起来还新鲜吗？</strong>」</p>
+<p>我顿时都懵住了，合着把人顾客当小白鼠呢？夫妻俩估计也意识到了，脸上不悦，碍于情面只好附和道：「这玉米好像是不太饱满。」</p>
+<p>我本以为都这么聊了，这话题也就该打住了吧？殊不知这老板竟然和餐馆阿姨数落起了食材供应商，说送来的时候就说不行，上次也是，叭叭的讲了有 5 分钟才消停。</p>
+<p>更神奇的是，老板和店员阿姨全程没有再跟两只“小白鼠”说过一句话，更别说赔不是了。这夫妻俩可能也是被一顿数落唬住了，埋头继续吃那不新鲜的饺子，灰头土脸的，心情算是全被毁了...</p>
+</blockquote>
+<p>一顿操作下来，饺子馅的问题解没解决我不清楚，但是这夫妻俩，以及当时在场的其他客户，应该是不会再选择这家店了。</p>
+<p>我认为这件事中，老板想从顾客口中<strong>收集关于菜品的反馈</strong>，这样做会更好：</p>
+<ol>
+<li>等客户快要<strong>结束用餐时</strong>，再上前询问菜品是否满意。不可以像饲养员一样杵在顾客面前，询问意见时要<strong>有礼貌</strong>，表明身份和来意；</li>
+<li>可以从侧面提问，降低顾客给予否定回答时的<strong>心理压力</strong>。如：「前面有顾客反应说玉米粒不够饱满，您觉得有这种情况吗？」；</li>
+<li>如果顾客表示认同食品存在品质问题，应该立马<strong>表示歉意</strong>，并主动<strong>提出补偿</strong>方案、<strong>寻求顾客同意</strong>，如一碟小菜，一份花生等；</li>
+<li>供应链属于<strong>内部问题</strong>，可以<strong>私下讨论</strong>或打烊后会议讨论，甚至走出门再说也行。坚决不能<strong>当客户的面揭自己的短</strong>；</li>
+<li>如果已经知道今天的食材有质量问题，也可以将不同批次的食材混合使用，<strong>降低客诉风险</strong>；（不推荐，应从源头做好把控！）</li>
+</ol>
+<p><strong>相同的问题，放在产品运营中也是一样的道理。</strong></p>
+</li>
+<li>
+<h3 id="honesty-诚实">Honesty 诚实</h3>
+<p>待更新</p>
+</li>
+<li>
+<h3 id="kindness-善良">Kindness 善良</h3>
+<p>待更新</p>
+</li>
+<li>
+<h3 id="humor-幽默">Humor 幽默</h3>
+<p>待更新</p>
+</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习｜The Science of Well-Being - Introduction]]></title>
         <id>https://samyinyue.github.io/post/the-science-of-well-being-introduction/</id>
@@ -36,7 +80,7 @@
 <blockquote>
 <ul>
 <li>
-<p>340 Ways to Use VIA Character Strengths - <a href="https://www.actionforhappiness.org/media/52486/340_ways_to_use_character_strengths.pdf">PDF File</a></p>
+<p>340 Ways to Use VIA Character Strengths - <a href="https://www.actionforhappiness.org/media/52486/340_ways_to_use_character_strengths.pdf">PDF File</a></p>
 </li>
 <li>
 <p>REWIREMENT WORKBOOK - <a href="https://d3c33hcgiwev3.cloudfront.net/aDjqd6r1EeiIWQ7qQVoxgg_685599f0aaf511e88c18c7c9c982bab3_00_Workbook_New.pdf?Expires=1595980800&amp;Signature=REt3zrDBmBiWNAFW2iFZyn6URDNXIofsK~194ZLz5RzKD34LX1J6TztM75sE5W7WYyjMFAu5FW94HQLNlZ1-kVAr966qA8W7~3Kj9lNUUyAWftIvt~Lm6Qz9LjxdWZS1JkRXy1SEmuw3dXTBJJptWe1cXbtjVBNgb3AhVAE5H-A_&amp;Key-Pair-Id=APKAJLTNE6QMUY6HBC5A">PDF File</a></p>
