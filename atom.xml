@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://samyinyue.github.io</id>
     <title>殷悦 Sam</title>
-    <updated>2020-07-30T18:00:02.601Z</updated>
+    <updated>2020-08-09T17:03:04.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://samyinyue.github.io"/>
     <link rel="self" href="https://samyinyue.github.io/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://samyinyue.github.io/images/avatar.png</logo>
     <icon>https://samyinyue.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 殷悦 Sam</rights>
+    <entry>
+        <title type="html"><![CDATA[学习｜The Science of Well Being - Week 3 Notes]]></title>
+        <id>https://samyinyue.github.io/post/the-science-of-well-being-week-3-notes/</id>
+        <link href="https://samyinyue.github.io/post/the-science-of-well-being-week-3-notes/">
+        </link>
+        <updated>2020-08-09T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="annoying-features">Annoying Features</h3>
+<ol>
+<li>
+<h4 id="our-minds-strongest-intuitions-are-often-totally-wrong">Our minds’ strongest intuitions are often totally wrong</h4>
+<p>让你觉得会很快乐的，实际上不会让你那么快乐。反之亦然。人们做判断时容易只注意一个点而忽略其他因素——得了艾滋病，但生活中其他愉快的事情其实不会减少，总体来说根本没有那么难过；</p>
+</li>
+<li>
+<h4 id="our-minds-dont-think-in-terms-of-absolutes-our-minds-judge-to-relative-reference-points">Our minds don’t think in terms of absolutes; our minds judge to relative reference points</h4>
+<p>人们的判断总是基于比较的，而开心程度取决于你的参考系。通常来说，向上比较会让人更不开心，而看别人比自己惨并不会让我们开心多少。每涨 1 美金工资，人平均会觉得自己其实值 1.4 美金；身边的人都拿 10000 月薪 OK，但同事能拿 20000 月薪就会极大降低工作满意度；人性没有满足，永远在攀比，一方面可以利用这个“你是身边是个人的平均数”的原理提升自己，另一方面也要小心被欲望反噬。</p>
+</li>
+<li>
+<h4 id="our-minds-are-built-to-get-used-to-stuff">Our minds are built to get used to stuff</h4>
+<p>刚结婚时是“Just married (yeah)!!!”，两年后是“just (barely) married...”；刚中彩票以为不习惯有钱的生活，其实很快就也是生活；得到一份超棒的 offer，入职一样也是干活... 痛苦亦然。原理上说，也是参考系重置了。</p>
+</li>
+<li>
+<h4 id="we-dont-realize-that-our-minds-are-built-to-get-used-to-stuff">We don’t realize that our minds are built to get used to stuff</h4>
+<p>当我们预测一件事情对于状态带来的改变时，我们通常忽略它其实不是持续性的。一顿晚餐很美味，但菜都吃过之后，已经没有第一口尝到的那么好吃了；刚住大一宿舍时，觉得环境差到没法住，但住了一年后再评价，只记得些许有趣的片段，也没觉得有啥大不了的——习惯了。这里有个词叫 IMPACT BIAS，指对一件事情的判断存在偏见。</p>
+</li>
+</ol>
+<p>以上的第三点和第四点的区别，没有能太听明白。课程 Review 里提供了测试题举例让选择符合哪一种 Annoying Feature，第一次做没及格，补考一次才过。有机会把题目截图或者复制贴过来。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习｜The Science of Well-Being - Week 1 Rewirement]]></title>
         <id>https://samyinyue.github.io/post/the-science-of-well-being-week-1-rewirement/</id>
