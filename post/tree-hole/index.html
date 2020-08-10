@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>文章归档 | 殷悦 Sam</title>
+<title>碎碎念｜Y 的深夜迷思 | 殷悦 Sam</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -11,6 +11,12 @@
 <link rel="shortcut icon" href="https://samyinyue.github.io/favicon.ico?v=1597076561795">
 <link rel="stylesheet" href="https://samyinyue.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
@@ -27,7 +33,9 @@
 </script>
 
 
-    <meta name="description" content="Think different, don&#39;t be evil. ">
+    <meta name="description" content="这篇 Blog 用来记录一些零碎的想法，可能是生活、工作、爱情、等等... 就写在评论区里，当作自己的树洞。
+" />
+    <meta name="keywords" content="秘密" />
   </head>
   <body>
     <div id="app" class="main">
@@ -103,60 +111,34 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          
+          <div class="post-detail">
+            <h2 class="post-title">碎碎念｜Y 的深夜迷思</h2>
+            <div class="post-date">2020-08-10</div>
+            
+            <div class="post-content" v-pre>
+              <p>这篇 Blog 用来记录一些零碎的想法，可能是生活、工作、爱情、等等... 就写在评论区里，当作自己的树洞。</p>
 
-          <h2 class="archives-title">文章归档</h2>
-          <div class="archives-container">
+            </div>
             
-              <h2 class="year" data-aos="fade-in" data-aos-delay="500">2020</h2>
+              <div class="tag-container">
+                
+                  <a href="https://samyinyue.github.io/tag/mi-mi/" class="tag">
+                    秘密
+                  </a>
+                
+              </div>
+            
+            
+
+            
               
-                
-                  <article class="post">
-                    <a href="https://samyinyue.github.io/post/the-science-of-well-being-week-3-notes/">
-                      <h2 class="post-title">
-                        学习｜The Science of Well Being - Week 3 Notes
-                      </h2>
-                    </a>
-                  </article>
-                
+                <div id="gitalk-container" data-aos="fade-in"></div>
               
-                
-                  <article class="post">
-                    <a href="https://samyinyue.github.io/post/the-science-of-well-being-week-1-rewirement/">
-                      <h2 class="post-title">
-                        学习｜The Science of Well-Being - Rewirements（不定期更新 ing...
-                      </h2>
-                    </a>
-                  </article>
-                
-              
-                
-                  <article class="post">
-                    <a href="https://samyinyue.github.io/post/the-science-of-well-being-introduction/">
-                      <h2 class="post-title">
-                        学习｜The Science of Well-Being - Introduction
-                      </h2>
-                    </a>
-                  </article>
-                
-              
-                
-                  <article class="post">
-                    <a href="https://samyinyue.github.io/post/happy-birthday-2020/">
-                      <h2 class="post-title">
-                        生日快乐！
-                      </h2>
-                    </a>
-                  </article>
-                
+
               
             
+
           </div>
-
-          <div class="pagination-container">
-  
-  
-</div>
 
         </div>
       </div>
@@ -177,6 +159,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '7b26db52825452cef015',
+        clientSecret: '266be712cf80fadc9e40a27711795346dad4babb',
+        repo: 'samyinyue.github.io',
+        owner: 'samyinyue',
+        admin: ['samyinyue'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
