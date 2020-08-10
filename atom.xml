@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://samyinyue.github.io</id>
     <title>殷悦 Sam</title>
-    <updated>2020-08-09T18:30:16.997Z</updated>
+    <updated>2020-08-10T15:48:31.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://samyinyue.github.io"/>
     <link rel="self" href="https://samyinyue.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://samyinyue.github.io/images/avatar.png</logo>
     <icon>https://samyinyue.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 殷悦 Sam</rights>
+    <entry>
+        <title type="html"><![CDATA[碎碎念｜Y 的深夜迷思]]></title>
+        <id>https://samyinyue.github.io/post/sui-sui-nian-ory-de-shen-ye-mi-si/</id>
+        <link href="https://samyinyue.github.io/post/sui-sui-nian-ory-de-shen-ye-mi-si/">
+        </link>
+        <updated>2020-08-10T15:45:01.000Z</updated>
+        <content type="html"><![CDATA[<p>用来记录一些零碎的想法，就写在评论区里。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习｜The Science of Well Being - Week 3 Notes]]></title>
         <id>https://samyinyue.github.io/post/the-science-of-well-being-week-3-notes/</id>
@@ -39,12 +48,13 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[学习｜The Science of Well-Being - Week 1 Rewirement]]></title>
+        <title type="html"><![CDATA[学习｜The Science of Well-Being - Rewirements（不定期更新 ing...]]></title>
         <id>https://samyinyue.github.io/post/the-science-of-well-being-week-1-rewirement/</id>
         <link href="https://samyinyue.github.io/post/the-science-of-well-being-week-1-rewirement/">
         </link>
         <updated>2020-07-30T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>书接上回，本周应该想着在生活中发挥自己的四个<strong>性格特征（Signature Strength）</strong>，但实际操作起来，可没我想象中那么容易。说来惭愧，现在让我回忆四个特征分别是什么，我都有些说不上来...</p>
+        <content type="html"><![CDATA[<p>##Week 1</p>
+<p>书接上回，本周应该想着在生活中发挥自己的四个<strong>性格特征（Signature Strength）</strong>，但实际操作起来，可没我想象中那么容易。说来惭愧，现在让我回忆四个特征分别是什么，我都有些说不上来...</p>
 <ul>
 <li>
 <h3 id="judgment-判断">Judgment 判断</h3>
